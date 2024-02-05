@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá, pessoa. Eu sou a Carol 👋
+
+-  :woman: Me chamo Carolina, tenho 37 anos e estou em transição de carreira para a área de tecnologia.
+- :construction_worker: Atualmente trabalho como assistente de vendas e minhas atividades têm contribuído muito para melhorar minhas habilidades de organização e de comunicação;
+- :school: Estou no 3º semestre de Análise e Desenvolvimento de Sistemas na Universidade de Caxias do Sul. A previsão de formatura é em dezembro de 2025 (Eba, festa!!!) ![hoop](https://media.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.gif?cid=790b7611sm6aa4ffsc45go8ur116t7p4he6tgnarugf021ss&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 <!--
 **CarolSilveira0/CarolSilveira0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
