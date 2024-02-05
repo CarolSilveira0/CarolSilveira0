@@ -14,10 +14,8 @@
 ***
 - :calling: Aqui embaixo estão minhas redes e meu contato, caso você queira se conectar.
 - <div>
-<a href="https://www.linkedin.com/in/carol-silveira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://instagram.com/carolsilveira_1986?igsh=MTM3bGw2ajZ6eHZ6bg==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:carolreis170486@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carol-silveira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://instagram.com/carolsilveira_1986?igsh=MTM3bGw2ajZ6eHZ6bg==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href = "mailto:carolreis170486@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-- :joy_cat: Fun fact: eu amo gifs:
+- :joy_cat: Fun fact: eu amo gifs animados: <hr>
   ![hoop](https://media.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.gif?cid=790b7611sm6aa4ffsc45go8ur116t7p4he6tgnarugf021ss&ep=v1_gifs_search&rid=giphy.gif&ct=g)
